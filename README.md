@@ -1,3 +1,6 @@
-# Gokit3-Resource
-
-- 1、Gokit3开发板出厂设置的stm32底板和Esp8266固件下载：[点我查看下载](https://dev.gizwits.com/zh-cn/developer/resource/hardware?type=GoKit)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xuhongv/Gokit3-Resource/master/Asset/g3-bg.png" width="520px" height="300px" alt="Banner" />
+</p>
+ 
+ 
+ 
